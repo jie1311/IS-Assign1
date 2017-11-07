@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Map()
+comment1.params=size
+comment1.target=Map(int)
+comment2.params=
+comment2.target=char[][]\ getMap()
+comment3.params=i\ j
+comment3.target=char\ getUnit(int,\ int)
+comment4.params=i\ j\ type
+comment4.target=void\ setUnit(int,\ int,\ char)
+comment5.params=
+comment5.target=int[]\ getGoal()
+comment6.params=
+comment6.target=int[]\ getStart()
+comment7.params=
+comment7.target=int\ getSize()
+numComments=8

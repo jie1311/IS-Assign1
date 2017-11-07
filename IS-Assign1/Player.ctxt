@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=input
+comment1.target=void\ read(java.lang.String)
+comment2.params=output
+comment2.target=void\ cal(java.lang.String)
+numComments=3
